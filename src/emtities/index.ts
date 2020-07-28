@@ -1,0 +1,5 @@
+export * from './rol.entity'
+export * from './user.entity'
+export * from './products.entity'
+export * from './calender.entity'
+export * from './persona.entity'
